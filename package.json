@@ -1,0 +1,22 @@
+{
+  "name": "main.js",
+  "version": "1.0.0",
+  "description": "The Repo of Internship at Echno Tech",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mriceflame/Internship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mriceflame/Internship/issues"
+  },
+  "homepage": "https://github.com/mriceflame/Internship#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
